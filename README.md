@@ -2,6 +2,8 @@
 
 Implemented Chartjs for Donught & vertical portfolio representation of user
 
+#Testing using Jest Framework
+
 ![Screenshot 2024-07-01 145311](https://github.com/ayushharmaa/zerodhaclone/assets/93790325/5d674f56-983b-42e7-b168-c2ddc0d7b4c0)
 
 ![Screenshot 2024-07-01 145332](https://github.com/ayushharmaa/zerodhaclone/assets/93790325/61792dc4-2e59-40e6-b77c-b94a0ca907d6)
